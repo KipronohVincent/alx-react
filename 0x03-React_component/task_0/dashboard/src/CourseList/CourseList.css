@@ -1,0 +1,26 @@
+.table {
+    height: 600px;
+}
+#CourseList {
+    width: 90%;
+    margin: 60px;
+    border-collapse: collapse;
+}
+
+#CourseList th[colspan="2"] {
+    text-align: center;
+}
+
+#CourseList thead tr {
+    text-align: left;
+    border: 1px solid;
+}
+
+#CourseList tbody {
+    border: 1px solid;
+}
+
+.linea {
+    background-color: red;
+    height: 5px;
+}
