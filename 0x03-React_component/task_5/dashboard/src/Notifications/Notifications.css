@@ -1,0 +1,22 @@
+.Notifications {
+    float:right;
+    padding: 2rem;
+    border: 2px dashed #e2374c;
+}
+
+.menuItems {
+    display: flex;
+    justify-content: flex-end;
+}
+
+li[data-notification-type="default"] {
+    color: blue;
+}
+
+li[data-notification-type="urgent"] {
+    color: #e2374c;
+}
+
+.Notifications button {
+    float: right;
+}
