@@ -1,0 +1,18 @@
+.App-login {
+  height: 60rem;
+  border-bottom: 4px solid #e2374c;
+  border-top: 4px solid #e2374c;
+}
+
+.App-login > p {
+  padding: 2rem;
+}
+
+.App-login label {
+  margin: 0 2rem 0 2rem;
+}
+
+.App-login button {
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
